@@ -1,0 +1,2 @@
+
+kintamasis = "Laba diena"
