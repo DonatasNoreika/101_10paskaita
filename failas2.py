@@ -1,2 +1,2 @@
 
-kintamasis = "Laba diena"
+kintamasis = "Laba diena, žmonės!"
